@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Mia 👋
+Futura Cientifica de Datos. Actualmente estoy cursando mi carrera en la Univerisdad Austral de Rosario.
+Me interesa transformar datos en informacion util, estoy aprendiendo a programar, analizar y visualizar datos, y a desarrollar software de forma colaborativa. 
 
-<!--
-**MiaSiriani/miasiriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qué estoy aprendiendo 🎓
+- Desarrollo de paquetes en R
+- Flujos de trabajo colaborativos con Git y GitStudio
+- Buenas prácticas para escribir código claro y reproducible
 
-Here are some ideas to get you started:
+## Herramientas que uso 🛠️
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me interesa 📊
+- Analisis y visualizacion de datos
+- Estadistica y machine learning
+
+## Contacto 📬
+- Email: miasirianii@gmail.com
+
