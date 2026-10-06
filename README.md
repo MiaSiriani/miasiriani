@@ -1,5 +1,5 @@
 # Hola, soy Mia 👋
-Futura Cientifica de Datos. Actualmente estoy cursando mi carrera en la Univerisdad Austral de Rosario.
+Futura Cientifica de Datos. Actualmente estoy cursando mi carrera en la Universidad Austral de Rosario.
 Me interesa transformar datos en informacion util, estoy aprendiendo a programar, analizar y visualizar datos, y a desarrollar software de forma colaborativa. 
 
 ## Qué estoy aprendiendo 🎓
